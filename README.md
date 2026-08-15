@@ -32,7 +32,7 @@
 | 👾 [**bieb-io**](https://github.com/T58574/bieb-io) | **Authoritative 60 TPS Multiplayer Bullet-Hell Roguelike** — Pure Go authoritative server featuring spatial hash grid collision partitioning, `sync.Pool` zero-GC pooling, dense binary WebSocket protocols, and HTML5 Canvas client. *(Archived)* | `Go` `Binary WebSockets` `TypeScript` `Canvas` |
 | 🎮 [**Composite**](https://github.com/T58574/Composite) | **3D Tank Physics, Ballistics & Modular Armor Sandbox** — High-fidelity military simulation in Godot 4 / Jolt 3D featuring slope-normalized penetration, dynamic ERA reactive tiles, spall fragment dispersion, and procedural 3D mesh vertex editing. *(Archived)* | `Godot 4.7` `Jolt 3D` `GDScript 2.0` `GLSL` |
 | 🛡️ [**ZShield**](https://github.com/T58574/zshield) | **Cross-Platform Glassmorphic VPN Client & Tunneling Engine** — Desktop & mobile VPN station with embedded Xray-core / sing-box, VLESS Reality/Vision protocols, Wintun adapter virtual routing, and Riverpod 2 state management. *(Archived)* | `Flutter 3` `Dart` `Xray-core` `Wintun` `Riverpod` |
-| 📡 [**Aelita Stream**](https://github.com/T58574/stream) | **Ultra-Low Latency WebRTC / WHEP Broadcaster** — Sub-200ms live video broadcasting station with integrated MediaMTX streaming server, WebSocket chat, and customizable HTML5 overlays. | `Python` `FastAPI` `WebRTC` `MediaMTX` `JS` |
+| 📡 [**0xStream**](https://github.com/T58574/0xStream) | **Ultra-Low Latency (<50ms) WebRTC Live HiFi Streaming Station** — Real-time broadcasting station with embedded MediaMTX media server, lossless Windows WASAPI loopback audio capture, FastAPI WebSocket chat, and Web Audio spectrum visualizers. | `Python` `FastAPI` `WebRTC (WHEP)` `MediaMTX` `PyQt6` `Opus` |
 
 ---
 
