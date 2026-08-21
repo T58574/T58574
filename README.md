@@ -1,71 +1,60 @@
-# Hi there, I'm T58 👋
-
-<div align="center">
-
-### 🚀 Systems Architect • Autonomous AI & LLM Engineer • High-Performance Systems
-
-[![GitHub Followers](https://img.shields.io/github/followers/T58574?label=Follow&style=social)](https://github.com/T58574)
-[![GitHub Stars](https://img.shields.io/github/stars/T58574?label=Stars&style=social)](https://github.com/T58574)
-
-*Specializing in local LLM inference engines (`llama.cpp` / GGUF), real-time Web-IDEs, DSP audio processing, authoritative game servers, Model Context Protocol (MCP) integrations, and zero-overhead native desktop tooling.*
-
-</div>
-
----
-
-### 🌟 Flagship Portfolio Showcase
-
-#### 🤖 Autonomous AI & Agentic Engineering
-
-| Project | Description | Core Stack |
-|---|---|---|
-| ⚡ [**0xAgent**](https://github.com/T58574/0xAgent) | **Autonomous AI Developer & Web-IDE Platform** — Full-stack agentic workspace featuring dual local (`llama.cpp` / GGUF) and cloud inference, Rust-speed fast file finder (FFF), multi-block fuzzy code patching, sub-50ms token streaming, and native C# Windows tray launcher. | `React 19` `TypeScript` `Express` `llama.cpp` `C#` |
-| 🎙️ [**0xVoice2Text**](https://github.com/T58574/0xVoice2Text) | **Real-Time Voice AI Assistant & Desktop Dictation Hub** — Ultra-low latency (<500ms) voice-to-text with Silero VAD pause detection, Whisper Large V3 transcription, continuous wake word engine (*"Jarvis"*), and Gemini/Gemma smart speech refiner. | `Python` `Whisper V3` `Silero VAD` `PyQt6` `Gemini` |
-| ⚔️ [**poe_intel**](https://github.com/T58574/poe_intel) | **Model Context Protocol (MCP) Server for Path of Exile** — Live telemetry suite giving LLMs direct access to `poe.ninja` market rates, instant PoB string decoding, `poewiki.net` Cargo tables, and real-time `Client.txt` death/zone tracking. | `Python` `MCP SDK` `FastAPI` `poe.ninja` |
-| 🔮 [**0xAiPOEHelper**](https://github.com/T58574/0xAiPOEHelper) | **Headless Path of Building Simulator & Build Diagnostics** — Automated theorycrafting suite bridging Python with PoB's headless Lua engine to calculate real-time DPS and EHP deltas for "What-If" gear swaps. | `Python` `Lua 5.1` `PoB Portable` `SQLite3` |
-
-#### ⚡ High-Performance Systems, DSP & Gamedev
-
-| Project | Description | Core Stack |
-|---|---|---|
-| 🎧 [**0xPlay**](https://github.com/T58574/0xPlay) | **High-Performance C++ DSP Audio Player & Smart DJ Automixer** — Embedded C++ signal processing engine with Camelot harmonic key detection, autocorrelation BPM tracking, equal-power crossfades, phase vocoder time-stretching, and WebGL fluid visualizers. | `Go 1.23` `C++11 (DSP)` `Wails v2` `React` `WebGL` |
-| 👾 [**bieb-io**](https://github.com/T58574/bieb-io) | **Authoritative 60 TPS Multiplayer Bullet-Hell Roguelike** — Pure Go authoritative server featuring spatial hash grid collision partitioning, `sync.Pool` zero-GC pooling, dense binary WebSocket protocols, and HTML5 Canvas client. *(Archived)* | `Go` `Binary WebSockets` `TypeScript` `Canvas` |
-| 🎮 [**Composite**](https://github.com/T58574/Composite) | **3D Tank Physics, Ballistics & Modular Armor Sandbox** — High-fidelity military simulation in Godot 4 / Jolt 3D featuring slope-normalized penetration, dynamic ERA reactive tiles, spall fragment dispersion, and procedural 3D mesh vertex editing. *(Archived)* | `Godot 4.7` `Jolt 3D` `GDScript 2.0` `GLSL` |
-| 🛡️ [**ZShield**](https://github.com/T58574/zshield) | **Cross-Platform Glassmorphic VPN Client & Tunneling Engine** — Desktop & mobile VPN station with embedded Xray-core / sing-box, VLESS Reality/Vision protocols, Wintun adapter virtual routing, and Riverpod 2 state management. *(Archived)* | `Flutter 3` `Dart` `Xray-core` `Wintun` `Riverpod` |
-| 📡 [**0xStream**](https://github.com/T58574/0xStream) | **Ultra-Low Latency (<50ms) WebRTC Live HiFi Streaming Station** — Real-time broadcasting station with embedded MediaMTX media server, lossless Windows WASAPI loopback audio capture, FastAPI WebSocket chat, and Web Audio spectrum visualizers. | `Python` `FastAPI` `WebRTC (WHEP)` `MediaMTX` `PyQt6` `Opus` |
-
----
-
-### 🛠️ Technical Competencies & Matrix
-
 ```
-  Systems & AI     :: llama.cpp • GGUF Quantization • KV Cache Tuning • Model Context Protocol (MCP) • Whisper • Silero VAD
-  Languages        :: TypeScript • JavaScript • Python • Go • C++11 • C# (.NET) • GDScript • Dart • Lua • SQL
-  Architecture     :: Authoritative Game Servers • DSP Audio Engines • Real-Time WebSockets • IPC Buses • REST APIs
-  Frontend & UI    :: React 19 • Vite • WebGL / GLSL Shaders • HTML5 Canvas • PyQt6 • Flutter • Glassmorphism
-  Desktop Tooling  :: Wails v2 • Cgo • Native Windows APIs (Win32, MCI, WASAPI, Winget) • Electron / WebView2
-  DevOps & Cloud   :: GitHub Actions CI/CD • Docker • Google AI Studio • Groq Cloud • MSYS2 / MinGW
+   __   _____  ___ _____ _  _   
+  / /_ |___ / ( _ )___ /| || |  
+ | '_ \  |_ \ / _ \ |_ \| || |_ 
+ | (_) |___) | (_) |__) |__   _|
+  \___/|____/ \___/|____/   |_| 
+```
+
+```text
+user@host:~$ whoami
+>> T58574 | Systems, DSP & Local AI Engineer
+
+[+] focus : local LLM inference engines (llama.cpp / GGUF), agentic loops, real-time audio DSP, native tooling
+[+] stack : C/C++, Go, TypeScript, Python, C# (.NET), Rust, Lua, Win32
+[+] arch  : zero-overhead binaries, non-blocking async IPC, memory quantization, low-latency streaming
 ```
 
 ---
 
-### 📊 GitHub Activity & Live Telemetry
+### [ Projects ]
 
-<div align="center">
+```text
+├── [0xAgent]        -> Local-first autonomous AI coding agent & Web-IDE (llama.cpp, React 19, TS, C# tray host)
+│                       https://github.com/T58574/0xAgent
+│
+├── [0xVoice2Text]   -> Real-time voice-to-text with Silero VAD, Whisper Large V3 & hotkey dictation
+│                       https://github.com/T58574/0xVoice2Text
+│
+├── [poe_intel]      -> Model Context Protocol (MCP) server for live telemetry, trade rates & build decoding
+│                       https://github.com/T58574/poe_intel
+│
+├── [0xPlay]         -> High-performance C++ DSP audio engine, harmonic DJ automixer & WebGL visuals
+│                       https://github.com/T58574/0xPlay
+│
+├── [0xStream]       -> Ultra-low latency (<50ms) WebRTC HiFi audio broadcast station with WASAPI loopback
+│                       https://github.com/T58574/0xStream
+│
+└── [0xAiPOEHelper]  -> Headless Path of Building simulation harness & automated DPS/EHP delta engine
+                        https://github.com/T58574/0xAiPOEHelper
+```
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=T58574&theme=tokyonight" height="160" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T58574&theme=tokyonight" height="160" alt="Repos per Language" />
+---
 
-<br/><br/>
+### [ Environment & Toolkit ]
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=T58574&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="T58 Activity Wave Graph" />
-
-</div>
+```text
+Languages     : C/C++, Go, TypeScript, Python, C# (.NET), Rust, Lua, GLSL, SQL
+Local AI      : llama.cpp, GGUF quantization, Flash Attention, Quantized KV (q8_0), MCP SDK
+Audio / DSP   : WASAPI loopback, phase vocoder, harmonic key tracking, Whisper, Silero VAD
+Systems & OS  : Win32 API, async IPC, raw sockets, WebSockets, Wintun, process supervision
+Web & UI      : React 19, Vite, Tailwind, WebGL / Canvas, PyQt6, Wails v2
+```
 
 ---
 
 <div align="center">
 
-*Engineered with precision, obsession for performance, and clean architectural principles.*
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T58574&theme=tokyo-night&hide_border=true&area=true)](https://github.com/T58574)
 
 </div>
