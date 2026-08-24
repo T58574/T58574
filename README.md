@@ -11,8 +11,8 @@ user@host:~$ whoami
 >> T58574 | Systems, DSP & Local AI Engineer
 
 [+] focus : local LLM inference engines (llama.cpp / GGUF), agentic loops, real-time audio DSP, native tooling
-[+] stack : C/C++, Go, TypeScript, Python, C# (.NET), Rust, Lua, Win32
-[+] arch  : zero-overhead binaries, non-blocking async IPC, memory quantization, low-latency streaming
+[+] stack : Vibecode
+[+] arch  : zero-overhead, non-blocking async, memory optimization, low-latency
 ```
 
 ---
@@ -44,7 +44,7 @@ user@host:~$ whoami
 ### [ Environment & Toolkit ]
 
 ```text
-Languages     : C/C++, Go, TypeScript, Python, C# (.NET), Rust, Lua, GLSL, SQL
+Languages     : English
 Local AI      : llama.cpp, GGUF quantization, Flash Attention, Quantized KV (q8_0), MCP SDK
 Audio / DSP   : WASAPI loopback, phase vocoder, harmonic key tracking, Whisper, Silero VAD
 Systems & OS  : Win32 API, async IPC, raw sockets, WebSockets, Wintun, process supervision
