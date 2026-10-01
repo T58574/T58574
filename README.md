@@ -19,19 +19,8 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### [1xveron](https://github.com/T58574/1xveron)
-> **Desktop terminal multiplexer for Windows.**
-
-Built in Rust with zero telemetry for Free.
-- **Deep ConPTY Teardown**: Recursive process tree termination (`taskkill /T /F`) guarantees zero zombie processes (`node`, `python`, `cargo`).
-- **Dynamic 1–6 Grid & Splitters**: Absolute coordinate tracking for zero-lag resizing and drag-and-drop window swapping.n.
-</td>
-<td width="50%" valign="top">
-
 ### [0xPlay](https://github.com/T58574/0xPlay)
 > **High-performance DSP desktop audio player.**
-
 Next-generation audio engine engineered for seamless harmonic transitions and live audio visualization.
 - **Harmonic Mixing**: Real-time Camelot key detection and automatic BPM synchronization for seamless track transitions.
 - **Low-Latency DSP Pipeline**: C++11 audio processing core coupled with low-latency WASAPI audio loopback.
@@ -41,10 +30,8 @@ Next-generation audio engine engineered for seamless harmonic transitions and li
 </tr>
 <tr>
 <td width="50%" valign="top">
-
 ### [0xAgent](https://github.com/T58574/0xAgent)
 > **Web platform for local LLMs.**
-
 Local-first autonomous coding environment designed to run complex agentic loops on GPU or CPU.
 - **Local Inference First**: Native execution with `llama.cpp` with GGUF models.
 - **Agentic Execution Engine**: Self-directed file system inspection, command execution, and iterative code refactoring.
