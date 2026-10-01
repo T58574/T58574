@@ -11,32 +11,3 @@
 </p>
 
 </div>
-
----
-
-## Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-### [0xPlay](https://github.com/T58574/0xPlay)
-> **High-performance DSP desktop audio player.**
-Next-generation audio engine engineered for seamless harmonic transitions and live audio visualization.
-- **Harmonic Mixing**: Real-time Camelot key detection and automatic BPM synchronization for seamless track transitions.
-- **Low-Latency DSP Pipeline**: C++11 audio processing core coupled with low-latency WASAPI audio loopback.
-- **WebGL Fluid Visualizer**: GPU-accelerated fluid dynamics reacting to frequency band energy in real time.
-- **Modern Desktop Shell**: Powered by Go and Wails v2 with a sleek React UI.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-### [0xAgent](https://github.com/T58574/0xAgent)
-> **Web platform for local LLMs.**
-Local-first autonomous coding environment designed to run complex agentic loops on GPU or CPU.
-- **Local Inference First**: Native execution with `llama.cpp` with GGUF models.
-- **Agentic Execution Engine**: Self-directed file system inspection, command execution, and iterative code refactoring.
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
-</table>
