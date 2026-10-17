@@ -17,23 +17,21 @@
 
 ### Кто я и что делаю
 
-Пишу софт, который не жрёт память гигабайтами и не лезет в облако без спроса. Специализируюсь на системном бэкенде, локальных нейронках, терминальных инструментах и быстрых интерфейсах.
-
-Никакого корпоративного булшита и бесконечных синков — только работающий код, плоский control flow и максимальный перформанс железа.
+Пишу софт, который не жрёт память гигабайтами и не лезет в облако без спроса. Специализируюсь на системном бэкенде, локальных нейронках, терминальных инструментах и быстрых интерфейсах. Ну и агентных системах.
 
 ---
 
 ### Основные проекты (Real Stuff)
 
-- **[Veron](https://github.com/T58574/Veron)** — Нативный терминальный мультиплексор и удаленный dev-сервер. Single-binary на Rust, Axum, Tokio, ConPTY и xterm.js WebGL. Zero-bloat, мгновенный отклик, полная изоляция сессий.
-- **[0xVoice2Text](https://github.com/T58574/0xVoice2Text)** — Локальный речевой стек и движок диктовки с задержкой <500ms на Whisper Large V3, Silero VAD и Edge-TTS (PyQt6). Работает оффлайн на чистом GPU.
+- **[Veron](https://github.com/T58574/Veron)** — Нативный терминальный мультиплексор и удаленный dev-сервер. Single-binary на Rust, Axum, Tokio, ConPTY и xterm.js WebGL. Zero-bloat, мгновенный отклик, полная изоляция сессий. (Скрыт пока изза коммерциализации проекта...)
+- **[0xVoice2Text](https://github.com/T58574/0xVoice2Text)** — Локальный речевой стек и движок диктовки с задержкой <500ms на Whisper Large V3, Silero VAD и Edge-TTS (PyQt6). Работает оффлайн на чистом GPU or CPU.
 - **[0xAgent](https://github.com/T58574/0xAgent)** — Автономная платформа для локальных AI-разработчиков и Web-IDE под llama.cpp и гибридные LLM (React 19, TypeScript, C#).
-- **[bieb-io](https://github.com/T58574/bieb-io)** — Authoritative 60 TPS сетевой игровой движок на Go с бинарными WebSockets, Canvas-рендером и глубокой системой билдов в стиле PoE.
-- **[0xMarkdownView](https://github.com/T58574/0xMarkdownView)** — Расширение для VS Code с Notion-style превью Markdown, поддержкой KaTeX, диаграмм Mermaid и GitHub Alert Callouts.
+- **[bieb-io ROFL](https://github.com/T58574/bieb-io)** — Authoritative 60 TPS сетевой игровой движок на Go с бинарными WebSockets, Canvas-рендером и глубокой системой билдов в стиле PoE.
+- **[0xMarkdownView MY THEME IN VSCODE](https://github.com/T58574/0xMarkdownView)** — Расширение для VS Code с Notion-style превью Markdown, поддержкой KaTeX, диаграмм Mermaid и GitHub Alert Callouts.
 
 ---
 
-### Стек без воды
+### Стек
 
 ```text
 Systems & Back:  Rust (Tokio, Axum), Go, C, Python, Node.js
